@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # World Bank Analytics & Dashboard
 ## Tools Used:
 - Jupyter Notebook
@@ -19,3 +20,6 @@
 - [Tableau Dashboard 2](https://public.tableau.com/app/profile/nilesh.domah4236/viz/WorldBankAnalytics_17156157559640/Dashboard2):
 
 ![Tableau Dashboard 2](https://github.com/ndomah/Portfolio-Projects/blob/main/Data%20Analytics/World%20Bank%20Analytics%20%26%20Dashboard/Dashboard%202.png)
+=======
+# WorldBank_Analytics
+>>>>>>> aadb89ec613617bed02487fb620278c5d14bc23b
